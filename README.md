@@ -1,3 +1,6 @@
+![capture3](https://github.com/ledu89/React-Quiz/assets/102481716/0af1dc09-04d6-4c5c-9ddf-e57733cbc86b)
+![capture2](https://github.com/ledu89/React-Quiz/assets/102481716/10c18d10-3c1c-4745-afd3-10d7cb1fcb21)
+![capture1](https://github.com/ledu89/React-Quiz/assets/102481716/84bdfc0b-bc68-4d4b-8ad8-7f06238067f9)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
